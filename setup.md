@@ -93,7 +93,7 @@ A database named `message_store` along with a user of the same name will be crea
 Run:
 
 ```
-bundle exec mdb-recreate-db
+PGHOST="database" PGUSER="demo_user" bundle exec mdb-recreate-db
 ```
 
 ### Copy the Database Settings Example File

@@ -1,7 +1,6 @@
 {
   "dbname": "message_store",
-  "host": "localhost",
-  "hostaddr": "127.0.0.1",
+  "host": "database",
   "port": 5432,
   "password": null,
   "user": "message_store"

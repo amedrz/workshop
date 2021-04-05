@@ -91,7 +91,7 @@ end
 
 == Funds Transfer Termination ==
 
--->> FT : Deposit
+-->> FT : Deposited
 note left of FT: Handle Deposited event
 
 FT ->> FT : Fetch FundsTransfer entity

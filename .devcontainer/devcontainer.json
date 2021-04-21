@@ -23,7 +23,7 @@
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.
-	"extensions": ["wingrunr21.vscode-ruby", "rebornix.ruby", "miguel-savignano.ruby-symbols", "misogi.ruby-rubocop", "jkiviluoto.tws"],
+	"extensions": ["wingrunr21.vscode-ruby", "rebornix.ruby", "miguel-savignano.ruby-symbols", "jkiviluoto.tws"],
 
 	"shutdownAction": "stopCompose",
 

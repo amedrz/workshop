@@ -9,3 +9,6 @@ Style/Documentation:
 
 Naming/VariableNumber:
   Enabled: false
+
+Style/LambdaCall:
+  Enabled: false
